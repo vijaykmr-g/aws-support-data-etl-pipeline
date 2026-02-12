@@ -36,6 +36,7 @@ Amazon Redshift
 ## 🗂️ Data Lake Structure
 
 S3 bucket structure:
+
                 s3://support-care-data/
                 │
                 ├── logs/
